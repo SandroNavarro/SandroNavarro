@@ -1,6 +1,6 @@
-<img align="Right"  alt="Computer Illustration" height="280" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img align="Right"  alt="Computer Illustration" height="230" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=23&pause=1000&color=7644CF&random=false&width=435&lines=Ol%C3%A1+%F0%9F%96%96+Me+Chamo+Alessandro+Navarro!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=21&pause=1000&color=7644CF&random=false&width=435&lines=Ol%C3%A1+%F0%9F%96%96+Me+Chamo+Alessandro+Navarro!)
 
 <p align="justify">Sou apaixonado por tecnologia, viciado em sites, Blogs seus códigos e Design. 
 <br>
