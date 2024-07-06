@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=21&pause=1000&color=7644CF&random=false&width=435&lines=Ol%C3%A1+%F0%9F%96%96+Me+Chamo+Alessandro+Navarro!)
 
-<p align="justify">Sou apaixonado por tecnologia, viciado em sites, Blogs seus códigos e Design. 
+<p align="justify">Apaixonado por construir soluções digitais completas, desde a interface do usuário até o back-end.  
 <br>
 Persistente, trabalho bem em equipe e tenho espirito de liderança.
 </p>
